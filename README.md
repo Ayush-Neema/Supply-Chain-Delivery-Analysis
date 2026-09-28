@@ -39,7 +39,7 @@ is it the shipping method, the region, the product category, or something else? 
 To give a clear, at-a-glance view of overall delivery performance, and to pinpoint the exact factors causing the most delays — so the business knows where to focus first.
 Walkthrough of Key Visuals
 
-Page 1 (Overview): KPI cards for Total Orders, Delay %, On-Time %, Total Profit, and Delay Loss, along with a Top 10 Delay Drivers chart that ranks the single biggest contributors to delay across shipping mode, region, and 
+Page 1 (Overview): KPI cards for Total Orders, Delay %, On-Time %, Total Profit, and Delay Loss, along with a Top 10 Delay Drivers chart that ranks the single biggest contributors to delay across shipping mode, region, and category
 
 Page 2 (Detailed Analysis): A breakdown of delay % across Product Category, Order Region, Customer Segment, and Shipping Mode
 
