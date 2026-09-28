@@ -67,4 +67,6 @@ Page 3 (Key Findings & Recommendations): A summary of the most important finding
 
 4. study the Standard Class shipping process, which has the lowest delay rate, and apply its practices to other shipping modes
 
+## Screenshots
 
+(https://github.com/Ayush-Neema/Supply-Chain-Delivery-Analysis/blob/main/Screenshots/Overall_Summary.png)
